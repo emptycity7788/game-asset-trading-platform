@@ -1,5 +1,7 @@
 # Comparative analysis of traditional and Blockchain game asset trading platform
 
+1701213049 KONG Chen
+
 ## 1.	Introduction: 
 Generally, there are two kinds of assets circulating in the game, one is game coins, the other is props, which form the economic system of the game. And this so-called economic system is hyper-centralized and usually closed, which means only the game developers have the right to issue and price the game assets, players can trade their props in built-in trading platform but have to pay game developers a fee, and the trade is in game coins. If you want to trade game assets in fiat currency, third-party platforms and middlemen play an important role. In a word, main parties in the game asset trading industry are: the players; game developers, third-party platforms and middlemen.
 
