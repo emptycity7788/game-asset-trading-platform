@@ -63,8 +63,6 @@ Traditional game asset trading platform is lack of transparency and hyper-centra
 
 [4]https://blog.csdn.net/P0ZHz2lTI1YFUh/article/details/83247464
 
-[5]https://wax.io/uploads/WAX_White_Paper.pdf
+[5]http://blocktivity.info/
 
-[6]http://blocktivity.info/
-
-[7][China Game Industry Report of 2018](https://github.com/emptycity7788/game-asset-trading-platform/blob/master/2018%E5%B9%B4%E4%B8%AD%E5%9B%BD%E6%B8%B8%E6%88%8F%E4%BA%A7%E4%B8%9A%E6%8A%A5%E5%91%8A.doc)
+[6][China Game Industry Report of 2018](https://github.com/emptycity7788/game-asset-trading-platform/blob/master/2018%E5%B9%B4%E4%B8%AD%E5%9B%BD%E6%B8%B8%E6%88%8F%E4%BA%A7%E4%B8%9A%E6%8A%A5%E5%91%8A.doc)
