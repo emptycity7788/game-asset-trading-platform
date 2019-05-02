@@ -55,8 +55,13 @@ Traditional game asset trading platform is lack of transparency and hyper-centra
 
 ## 5. Reference
 [1]http://report.iresearch.cn/content/2014/08/236390.shtml
+
 [2]https://wax.io/uploads/WAX_White_Paper.pdf
+
 [3]https://enjincoin.io/enjincoin_whitepaper.pdf
+
 [4]https://blog.csdn.net/P0ZHz2lTI1YFUh/article/details/83247464
+
 [5]https://wax.io/uploads/WAX_White_Paper.pdf
+
 [6]http://blocktivity.info/
