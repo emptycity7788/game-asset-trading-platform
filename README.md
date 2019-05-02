@@ -49,7 +49,7 @@ As a traditional third-party trading platform, OPSkins takes the initiative to u
 
 ![](https://github.com/emptycity7788/game-asset-trading-platform/blob/master/3.jpg)
 
-Source: blocktivity.info
+Source: [blocktivity.info](http://blocktivity.info/)
 
 ## 4. Conclusion
 Traditional game asset trading platform is lack of transparency and hyper-centralized to game developers.  The introduction of third-party intermediaries increases the possibility of payment fraud. The transactions in such platforms are always time-consuming and costly, high transaction costs do harm to the interest of buyers and sellers. However, Blockchain has several unique characteristics. Its decentralized distributed ledger makes all the listed items and transaction history traceable and temper-resistant, which dramatically reduces the probability of payment fraud or Man-in-the-middle attack. Its uniform and standardized Token makes the transaction easy and fast and has little transaction cost. The adoption of Blockchain in the game asset trading market creates a transparent and open ecosystem, which is a protection to the interest of buyers and sellers.
