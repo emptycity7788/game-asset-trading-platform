@@ -9,7 +9,8 @@ Traditional game asset trading platforms can be divided into the built-in game t
 In China, according to the data published by GPC and Gamma Data, the game market is gradually expanding. The actual sales revenue increases from 18.56 billion in 2008 to 214.44 billion in 2018. 
 
 ![](https://github.com/emptycity7788/game-asset-trading-platform/blob/master/1.png)
- Source: GPC and Gamma Data, Sales revenue of Chinese game market from 2008 to 2018 (hundred million yuanes, left axis) and yoy growth rate (%, right axis), 
+
+Source: GPC and Gamma Data, Sales revenue of Chinese game market from 2008 to 2018 (hundred million yuanes, left axis) and yoy growth rate (%, right axis)
 
 Relying on the vigorous development of China's game industry over the years, the virtual good trading market has formed a mature industrial chain, and gradually developed  different business models suitable for the development of different trading platforms. Currently, the relatively well-known game asset trading platforms include: the old trading platform that has been established since 2002, 5173.com，and the large-scale integrated e-commerce platform Taobao. The trading service provided by these platforms have promoted the prosperity of the virtual good trading market in China. 
 
@@ -46,6 +47,16 @@ WAX platform has its native Token. Small amount of WAX token is used during tran
 As a traditional third-party trading platform, OPSkins takes the initiative to update the service framework. It issues a WAX public blockchain based on ERC20 protocol, and transfers part of the transactions to the blockchain. In fact, it wants to improve its high-frequency and cross-border service with the help of the characteristics of blockchain. In a word，trading in traditional platforms is time-consuming and costly，and it's more possible to result in payment fraud. In these two aspects，blockchain platforms are better. Actually, its action has paid off. WAX public blockchain ranked seven according to the number of operations on the blockchain during the last 24 hours (updated 2019-05-01).
 
 ![](https://github.com/emptycity7788/game-asset-trading-platform/blob/master/3.jpg)
+
 Source: blocktivity.info
 
-4. Conclusion
+## 4. Conclusion
+Traditional game asset trading platform is lack of transparency and hyper-centralized to game developers.  The introduction of third-party intermediaries increases the possibility of payment fraud. The transactions in such platforms are always time-consuming and costly, high transaction costs do harm to the interest of buyers and sellers. However, Blockchain has several unique characteristics. Its decentralized distributed ledger makes all the listed items and transaction history traceable and temper-resistant, which dramatically reduces the probability of payment fraud or Man-in-the-middle attack. Its uniform and standardized Token makes the transaction easy and fast and has little transaction cost. The adoption of Blockchain in the game asset trading market creates a transparent and open ecosystem, which is a protection to the interest of buyers and sellers.
+
+## 5. Reference
+[1]http://report.iresearch.cn/content/2014/08/236390.shtml
+[2]https://wax.io/uploads/WAX_White_Paper.pdf
+[3]https://enjincoin.io/enjincoin_whitepaper.pdf
+[4]https://blog.csdn.net/P0ZHz2lTI1YFUh/article/details/83247464
+[5]https://wax.io/uploads/WAX_White_Paper.pdf
+[6]http://blocktivity.info/
